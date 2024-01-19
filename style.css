@@ -1,0 +1,104 @@
+*{
+  margin: 0;
+  padding: 0;
+  
+}
+body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+  padding: 0;
+}
+.box{
+  margin: 20px 0 0  0;
+  padding: 0;
+  margin-bottom: 0;
+
+}
+
+.box .sp1{
+  padding: 0;
+  transform: rotate(90deg);
+  margin-top: 0px;
+  margin-left: 18px ;
+  margin-right: 0;
+  margin-bottom: 0;
+  height: 50px;
+  width: 5px;
+  background: #000;
+  display: block;
+  
+}
+
+.box .sp2{
+  padding: 0;
+  margin-bottom: 0;
+  height: 60px;
+  width: 5px;
+  background: #000;
+  display: block;
+}
+
+.box .sp3{ 
+    height: 60px;
+    width: 5px;
+    margin-bottom: 0;
+    margin: 0 20px;
+    transform: translateX(34px);
+    margin-top: -60px;
+    background: #000;
+    display: block;
+  
+}
+
+
+.box .sp4{
+    padding: 0;
+
+  transform: rotate(90deg);
+  margin-top: 0px;
+  margin-left: 18px ;
+  margin-right: 0;
+  margin-bottom: 0;
+  height: 50px;
+  width: 5px;
+  background: #000;
+  display: block;
+  
+}
+
+.box .sp5{ 
+    height: 60px;
+    width: 5px;
+    margin: 12px 0;
+    margin-top: 0;
+    background: #000;
+    display: block;
+  
+}
+
+.box .sp6{ 
+    height: 60px;
+    width: 5px;
+    margin: 0 0;
+    margin-top: -72px;
+    background: #000;
+    transform: translate(45px);
+    display: block;
+  
+}
+
+.box .sp7{
+  padding: 0;
+  transform: rotate(90deg);
+  margin-top: 0px;
+  margin-left: 18px ;
+  margin-right: 0;
+  margin-bottom: 0;
+  height: 50px;
+  width: 5px;
+  background: #000;
+  display: block;
+  
+}
